@@ -1,3 +1,7 @@
-заголовок-название,
-описание проекта и его функциональности,
-указание, что за технологии используются, если их много.
+How to learn website.
+--------------------
+This website will provide you with several techniques of studying.
+Good luck with that!
+--------------------
+HTML5; CSS;
+--------------------
