@@ -58,3 +58,17 @@
 @import url(../blocks/page/footer/__columns/__column-links/__list_item-link/footer__list_item-link.css);
 @import url(../blocks/page/footer/__columns/__column-links/__list_item-link/__link/footer__link.css);
 @import url(../blocks/page/footer/__columns/__column-links/__list_item-link/__social-icon/footer__social-icon.css);
+@font-face {
+    font-family: 'Inter-Bold';
+    src: url(../vendor/Inter/Inter-Bold.woff), url(../vendor/Inter/Inter-Bold.woff2);
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url(../vendor/Inter/Inter-Regular.woff), url(../vendor/Inter/Inter-Regular.woff2);
+}
+
+@font-face {
+    font-family: 'Inter-SemiBold';
+    src: url(../vendor/Inter/Inter-SemiBold.woff), url(../vendor/Inter/Inter-SemiBold.woff2);
+}
