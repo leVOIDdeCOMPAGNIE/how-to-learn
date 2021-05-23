@@ -1,4 +1,4 @@
-.fejnman__link {
+.feynman__link {
     position: absolute;
     top: 50%;
     right: 50px;
@@ -8,8 +8,11 @@
     font-weight: normal;
     text-decoration: none;
     color: #2F80ED;
+    opacity: 100%;
+    transition-property: opacity;
+    transition-duration: 0.5s;
 }
 
-.fejnman__link:hover {
-    color: #6ea3e9;
+.feynman__link:hover {
+    opacity: 0.3;
 }
